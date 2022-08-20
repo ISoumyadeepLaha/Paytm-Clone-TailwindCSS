@@ -18,4 +18,4 @@ It tooked me around 16 hours.
 
 ## Live Link
 
-
+[Netlify](https://soumyadeep-paytm-clone.netlify.app/)
